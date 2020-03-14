@@ -6,6 +6,5 @@ def prime?(value)
       value % i == 0 
     end 
   end 
-  true 
 end 
   
